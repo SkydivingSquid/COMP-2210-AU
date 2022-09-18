@@ -1,0 +1,6 @@
+5
+ab 8
+abc  10
+abcd        2
+a    4
+abcde        6
